@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @suzuki-kage
+- 👋 Hi, I’m An Liu
 - 👀 I’m interested in making viruses, crashing computers, making games, etc.
-- 🌱 I’m currently learning C and linux
+- 🌱 I’m currently learning C, Linux, and Java
 - 💞️ I’m looking to collaborate on absolutely nothing.
 - 📫 How to reach me ... Don't
 
